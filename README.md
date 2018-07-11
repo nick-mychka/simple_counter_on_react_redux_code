@@ -1,4 +1,4 @@
-# React/Redux code of Responsive Simple Counter
+# The React/Redux code of Responsive Simple Counter
 ![cover for app](https://github.com/nick-mychka/simple_counter_on_react_redux_code/blob/master/cover_counter.png "Cover of simple counter")
 
 * * *
